@@ -8,4 +8,4 @@ Project asked for a password generator for employees. Requirements including opt
 /Users/rusty/Desktop/SMU/HomeWork/password-creator/assets/images/Screenshot-Password Creator.png
 
 ## Application Link
-file:///Users/rusty/Desktop/SMU/HomeWork/password-creator/index.html
+https://hotperformancehorses.github.io/password-creator/
