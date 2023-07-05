@@ -9,3 +9,5 @@ Project asked for a password generator for employees. Requirements including opt
 
 ## Application Link
 https://hotperformancehorses.github.io/password-creator/
+
+NOTE-Used code sourced from forum as well as from classmates and an outside friend/tutor who works in the industry
